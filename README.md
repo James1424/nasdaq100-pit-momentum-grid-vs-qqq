@@ -23,7 +23,7 @@ The README is automatically regenerated from the CSV outputs. For each momentum 
 
 The full monthly decision-level data is saved in `output/momentum_grid_detail.csv`.
 
-Last updated: **2026-10-18 12:31 UTC**
+Last updated: **2026-10-25 13:05 UTC**
 
 ## Method
 
